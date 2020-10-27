@@ -1,0 +1,48 @@
+ h1 {
+color: #939;
+}
+
+h2 {
+color: #cc6600;    
+
+}
+
+body
+{
+    background-color: #d2dc9b;
+    background-image: url('/Users/winadmin/Documents/bistro/images/blackgoose.png');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+ 
+}
+
+#header{
+    opacity: 50%;
+    background-color: white;
+    background-image: url('/Users/winadmin/Documents/bistro/images/purpledot.png');
+background-repeat: repeat-x;
+background-attachment: unset;
+background-position: top;
+
+}
+
+a:link {
+    color: #939;
+    text-decoration: none;
+  }
+  
+a:visited
+{
+color: mediumvioletred;    
+}
+a:hover {
+ color: #c700f2; 
+ background-color: white;  
+}
+
+a:active {
+    color: #f0f;
+}
+
+
